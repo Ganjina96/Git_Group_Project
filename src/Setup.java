@@ -13,6 +13,7 @@ public class Setup {
         System.out.println("Hello World");
         System.out.println("Another cat");
         System.out.println("Bye World");
+        System.out.println("Bye");
 
 
     }
