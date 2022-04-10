@@ -14,4 +14,9 @@ public class Cat {
                 ", age=" + age +
                 '}';
     }
+
+    public void gainingWeight(){
+        weight += 10;
+        System.out.println("Now our cat is " + weight + " pounds");
+    }
 }
