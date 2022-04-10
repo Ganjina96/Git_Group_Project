@@ -15,7 +15,16 @@ public class Setup {
         System.out.println("Bye World");
         System.out.println("Bye");
 
+        Cat cat1 = new Cat();
+        cat1.name = "Mashka";
+        cat1.color = "Gray";
+        cat1.breed = "Street";
+        cat1.height = 20;
+        cat1.weight = 3;
+        cat1.age = 5;
 
+        System.out.println(cat1);
+
+        cat1.gainingWeight();
     }
-
 }
