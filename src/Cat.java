@@ -19,4 +19,6 @@ public class Cat {
         weight += 10;
         System.out.println("Now our cat is " + weight + " pounds");
     }
+
+
 }
