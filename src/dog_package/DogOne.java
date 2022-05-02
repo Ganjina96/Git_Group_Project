@@ -6,6 +6,7 @@ public class DogOne {
     int age;
     String color;
 
+
     public DogOne(String name, String breed, int age, String color) {
         this.name = name;
         this.breed = breed;
