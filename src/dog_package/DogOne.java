@@ -12,4 +12,14 @@ public class DogOne {
         this.age = age;
         this.color = color;
     }
+
+    @Override
+    public String toString() {
+        return "DogOne{" +
+                "name='" + name + '\'' +
+                ", breed='" + breed + '\'' +
+                ", age=" + age +
+                ", color='" + color + '\'' +
+                '}';
+    }
 }
