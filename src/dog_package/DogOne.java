@@ -7,13 +7,6 @@ public class DogOne {
     String color;
 
 
-//    public DogOne(String name, String breed, int age, String color) {
-//        this.name = name;
-//        this.breed = breed;
-//        this.age = age;
-//        this.color = color;
-//    }
-
     public DogOne(String name, String breed, int age, String color) {
         this.name = name;
         this.breed = breed;
