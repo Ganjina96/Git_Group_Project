@@ -26,5 +26,6 @@ public class Setup {
         System.out.println(cat1);
 
         cat1.gainingWeight();
+
     }
 }
